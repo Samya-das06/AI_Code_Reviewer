@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **AI Code Reviewer** is an intelligent tool designed to automatically analyze and review source code written primarily in Java and JavaScript. Using AI and static analysis techniques, it helps developers detect bugs, security vulnerabilities, style inconsistencies, and adherence to best practices — all to improve code quality and accelerate the development process.
+The **AI Code Reviewer** is an intelligent tool designed to automatically analyze and review source code written primarily in Java and JavaScript. Using AI and static analysis techniques, it helps developers detect bugs, security vulnerabilities, style inconsistencies, and adherence to best practices - all to improve code quality and accelerate the development process.
 
 By integrating seamlessly with popular developer tools and workflows, this project aims to reduce manual review effort while providing detailed, actionable feedback on your code.
 
